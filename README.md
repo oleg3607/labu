@@ -12,8 +12,8 @@
 | Номер ЛР | Назва Лабораторної Роботи | Статус     |
 |----------|--------------------------|------------|
 | 0        | [Робота з Markdown ](/init/README.md)   | :heavy_check_mark:   |
-| 1        | Лабораторна робота №1    | :heavy_multiplication_x:   |
-| 2        | Лабораторна робота №2    | :heavy_multiplication_x:   |
+| 1        | [Лабораторна робота №1](/laba_1/README.md)    | :heavy_multiplication_x:   |
+| 2        | [Лабораторна робота №2](/laba_2/README.MD)    | :heavy_multiplication_x:   |
 | 3        | Лабораторна робота №3    | :heavy_multiplication_x:  |
 | 4        | Лабораторна робота №4    | :heavy_multiplication_x: |
 | 5        | Лабораторна робота №5    | :heavy_multiplication_x:  |
