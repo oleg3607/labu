@@ -15,8 +15,8 @@
 | 1        | [Лабораторна робота №1](/laba_1/README.md)    | :heavy_check_mark:   |
 | 2        | [Лабораторна робота №2](/laba_2/README.MD)    | :heavy_check_mark:   |
 | 3        | [Лабораторна робота №3](/laba_3/README.md)    | :heavy_check_mark:   |
-| 4        | Лабораторна робота №4    | :heavy_multiplication_x: |
-| 5        | Лабораторна робота №5    | :heavy_multiplication_x:  |
+| 4        | Лабораторна робота №4    | :heavy_minus_sign: |
+| 5        | Лабораторна робота №5    | :heavy_minus_sign: |
 
 
 
