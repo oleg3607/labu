@@ -1,7 +1,7 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/minimal
 plugins:
-
   - jekyll-remote-theme
 
-title: "Звіти з ООП"
-description: "Звіти виконання лабораторних робіт з предмету ООП в ІТ коледжі Львів."
+title: "мій сайт"
+description: "сайт який свідчить про виконання 5 лаби"
+
