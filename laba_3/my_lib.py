@@ -4,7 +4,7 @@ class AnimeClabLib:
    unic_favorite_anime = set()
    
    def __init__(self, name:str, surname:str, favorite_anime:set, favorite_characters:dict=None) -> None:
-      # Це просто прінт щоб ми знали що викликався нас конструктор
+      # Це просто прінт щоб ми. знали що викликався нас конструктор
       print(f"Ура в нас є новий учасник: {name} {surname}!")
       self.name = name # кожне поле обєкта називається атрибутом
       self.surname = surname
